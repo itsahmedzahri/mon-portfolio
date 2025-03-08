@@ -35,14 +35,14 @@ export function Certaficat() {
         "This certificate attests that the recipient has successfully completed and followed the Introduction to ChatGPT and Generative AI program offered by 365 Data Science.",
       name: "Intro to ChatGPT and Generative AI",
       designation: "365 Data Science",
-      src: "/C-AI.JPG",
+      src: "/C-AI.jpg",
     },
     {
       quote:
         "The certificate is designed with a clean and professional style, including an official 365 DataScience seal at the bottom of the document.",
       name: "Intro to AI",
       designation: "365 Data Science",
-      src: "/AI.JPG",
+      src: "/AI.jpg",
     },
   ];
   return <AnimatedTestimonials testimonials={testimonials} />;
