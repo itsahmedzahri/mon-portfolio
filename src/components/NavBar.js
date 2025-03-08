@@ -36,13 +36,6 @@ export function NavBar() {
       href: "#Resume",
     },
     {
-      title: "Projects",
-      icon: (
-        <IconCode className="h-full w-full text-neutral-500 dark:text-neutral-300" />
-      ),
-      href: "#Projects",
-    },
-    {
       title: "Contact",
       icon: (
         <IconBrandLine className="h-full w-full text-neutral-500 dark:text-neutral-300" />
