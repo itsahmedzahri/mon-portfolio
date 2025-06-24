@@ -19,7 +19,7 @@ export function About() {
   <div className="flex flex-col sm:flex-row items-center space-y-4 sm:space-y-0 sm:space-x-6">
     {/* Image */}
     <Image
-      src="/pro.jpg"
+      src="/proo.jpg"
       width={250}
       height={250}
       className="rounded-full object-contain"
@@ -33,7 +33,7 @@ export function About() {
       </div>
       <div className="flex items-center mb-2">
         <span className="font-medium">Age: </span>
-        <span className="font-light text-gray-300 pl-2">23 ans</span>
+        <span className="font-light text-gray-300 pl-2">24 ans</span>
       </div>
       <div className="flex items-center mb-2">
         <span className="font-medium">E-mail: </span>
