@@ -107,7 +107,7 @@ const HeroSection = () => {
 <div className="w-[90%] mx-auto py-[30px] flex flex-col items-center">
   <div className="pt-[11px] w-[90%] mx-auto py-[30px] flex flex-col items-center text-black">
     <a
-      href="/Zahriahmed.pdf" target="_blank" rel="noopener noreferrer"
+      href="/ZahriAhmed.pdf" target="_blank" rel="noopener noreferrer"
       className="bg-white max-w-[130px] w-full h-[40px] flex justify-center items-center border border-l border-[#333333] text-black font-[600] rounded-[30px] mx-auto "
     >
       Download CV
